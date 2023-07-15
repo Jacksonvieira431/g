@@ -32,7 +32,7 @@ Contribuições são bem-vindas! Se você tiver melhorias, correções ou novos 
 ## Autor
 
 - Nome: Jackson Vieira
-- GitHub: [SeuNomeGitHub](https://github.com/Jacksonvieira431)
+- GitHub: [Jackson Vieira](https://github.com/Jacksonvieira431)
 
 ## Licença
 
